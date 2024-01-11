@@ -1,0 +1,15 @@
+C:\Users\amirf\Desktop\C#projects\AixAigolC#NoVisualitizition\bin\Debug\net7.0\AixAigolC#NoVisualitizition.exe
+C:\Users\amirf\Desktop\C#projects\AixAigolC#NoVisualitizition\bin\Debug\net7.0\AixAigolC#NoVisualitizition.deps.json
+C:\Users\amirf\Desktop\C#projects\AixAigolC#NoVisualitizition\bin\Debug\net7.0\AixAigolC#NoVisualitizition.runtimeconfig.json
+C:\Users\amirf\Desktop\C#projects\AixAigolC#NoVisualitizition\bin\Debug\net7.0\AixAigolC#NoVisualitizition.dll
+C:\Users\amirf\Desktop\C#projects\AixAigolC#NoVisualitizition\bin\Debug\net7.0\AixAigolC#NoVisualitizition.pdb
+C:\Users\amirf\Desktop\C#projects\AixAigolC#NoVisualitizition\obj\Debug\net7.0\AixAigolC#NoVisualitizition.csproj.AssemblyReference.cache
+C:\Users\amirf\Desktop\C#projects\AixAigolC#NoVisualitizition\obj\Debug\net7.0\AixAigolC#NoVisualitizition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirf\Desktop\C#projects\AixAigolC#NoVisualitizition\obj\Debug\net7.0\AixAigolC#NoVisualitizition.AssemblyInfoInputs.cache
+C:\Users\amirf\Desktop\C#projects\AixAigolC#NoVisualitizition\obj\Debug\net7.0\AixAigolC#NoVisualitizition.AssemblyInfo.cs
+C:\Users\amirf\Desktop\C#projects\AixAigolC#NoVisualitizition\obj\Debug\net7.0\AixAigolC#NoVisualitizition.csproj.CoreCompileInputs.cache
+C:\Users\amirf\Desktop\C#projects\AixAigolC#NoVisualitizition\obj\Debug\net7.0\AixAigolC#NoVisualitizition.dll
+C:\Users\amirf\Desktop\C#projects\AixAigolC#NoVisualitizition\obj\Debug\net7.0\refint\AixAigolC#NoVisualitizition.dll
+C:\Users\amirf\Desktop\C#projects\AixAigolC#NoVisualitizition\obj\Debug\net7.0\AixAigolC#NoVisualitizition.pdb
+C:\Users\amirf\Desktop\C#projects\AixAigolC#NoVisualitizition\obj\Debug\net7.0\AixAigolC#NoVisualitizition.genruntimeconfig.cache
+C:\Users\amirf\Desktop\C#projects\AixAigolC#NoVisualitizition\obj\Debug\net7.0\ref\AixAigolC#NoVisualitizition.dll
